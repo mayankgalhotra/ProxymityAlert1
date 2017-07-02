@@ -1,0 +1,4 @@
+#Sun Jul 02 17:41:13 IST 2017
+base.0=C\:\\Users\\Zahid\\Desktop\\Mayank\\ProximityAlertApp\\ProxymityAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2a2a5be920fef2bcf92b8ae63b77dd6c26101c63
+renamed.0=classes.dex
+file.0=C\:\\Users\\Zahid\\Desktop\\Mayank\\ProximityAlertApp\\ProxymityAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2a2a5be920fef2bcf92b8ae63b77dd6c26101c63\\classes.dex
